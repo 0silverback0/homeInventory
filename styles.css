@@ -17,6 +17,18 @@ li{
     font-weight: 600;
 }
 
+.checked{
+    text-decoration: line-through;
+}
+
+.float-right{
+    float: right;
+}
+
+li button{
+    margin-right: 10px;
+}
+
 #form{
     margin: auto;
     width: 250px;
