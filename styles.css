@@ -1,5 +1,5 @@
 body{
-    background: rgb(0, 110, 255);
+    background: rgb(0, 255, 179);
     max-width: 320px;
     margin: 0px;
 }
@@ -15,6 +15,18 @@ li{
     color: black;
     font-size: 30px;
     font-weight: 600;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.float-right{
+    float: right;
+}
+
+li button{
+    margin-right: 10px;
 }
 
 #form{
